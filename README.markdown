@@ -1,21 +1,7 @@
-# Spectacle Boilerplate
+# So what is Polymer, anyway?
 
-## Reference
+Polymer is not just a framework, it is an ambitious attempt to scry into the future and inform the present - to steward and direct the evolution of the Web Platform.
 
-The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown).
+This talk will give a brief overview of Polymer 3.0, the direction of WebComponents and make a case for why you should care about Polymer and the direction of the Web Platform.
 
-## Development
-
-After downloading the boilerplate, your first order of business is to open terminal and run `yarn`. (or `npm install` if you're about that life)
-
-Next, run `rm -R .git` to remove the existing version control.
-
-Then, to start up the local server, run `npm start`
-
-Open a browser and hit [http://localhost:3000](http://localhost:3000), and we are ready to roll
-
-## Build & Deployment
-
-Building the dist version of the project is as easy as running `npm run build`
-
-If you want to deploy the slideshow to surge, run `npm run deploy`
+[A lightning talk for the Jozi.JS Meetup, on the 19 October 2017](https://www.meetup.com/Jozi-JS/events/243167225)

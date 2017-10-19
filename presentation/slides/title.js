@@ -5,7 +5,7 @@ import { images } from "../images";
 export default (
   <Slide bgColor="primary">
     <Heading size={3} textColor="secondary" margin="-40px auto 0px">
-      What is
+      So what is
     </Heading>
     <Heading size={1} fit caps textColor="secondary">
       Polymer
